@@ -1,1 +1,1 @@
-# weWorkTechnicalTask
+# Node.js simple server
